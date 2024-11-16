@@ -1,6 +1,5 @@
 # **Alra AI – Your Personalized College Advisor**
 
-![Alra AI Banner](https://via.placeholder.com/800x300.png?text=Alra+AI+-+College+Advisor)  
 *(A project leveraging cutting-edge AI to guide students through the complex college application process.)*
 ---
 
